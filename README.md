@@ -1,6 +1,6 @@
 # node-form
-<b>利用node實作檔案上傳</b><br/>
-<b>the implementation of file uploads using node.js</b>
+利用node實作檔案上傳<br/>
+the implementation of file uploads using node.js
 
 ##Quick Start
 start the command line, and key in the statement like the below
