@@ -11,5 +11,5 @@ node app.js
 Then, you should see the image like the below:
 <img src="https://github.com/Yu-Che-Gao/node-form/blob/master/screenshots/cmd.png">
 
-After that, you can start the browser and go to http://localhost:3000/uploadFile
+After that, you can start the browser and go to http://localhost:3000/uploadFile<br/>
 Finally, check folder named "upload"
